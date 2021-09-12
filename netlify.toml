@@ -1,11 +1,18 @@
-# Handles all seasons
+# Core home page redirect
+[[redirects]]
+    from = "/"
+    to = "https://nervetheatre.org"
+    status = 301
+    force = true
+
+# Catch-all seasons redirect
 [[redirects]]
   from = "/season/*"
   to = "https://nervetheatre.org/s/:splat"
   status = 301
   force = true
 
-# All show page redirects
+# All show-page redirects
 [[redirects]]
   from = "/shows"
   to = "https://nervetheatre.org/the-archive"
