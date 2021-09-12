@@ -1,0 +1,19 @@
+{
+  "name": "playground-nerve-redirects",
+  "version": "1.0.0",
+  "description": "Netlify redirect mappings from the old Playground to our new Nerve site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-nerve/playground-nerve-redirects.git"
+  },
+  "author": "Chris Hahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-nerve/playground-nerve-redirects/issues"
+  },
+  "homepage": "https://github.com/the-nerve/playground-nerve-redirects#readme"
+}
