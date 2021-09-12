@@ -2,130 +2,130 @@
   from = "/"
   to = "https://nervetheatre.org"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/about"
   to = "https://nervetheatre.org/blog/the-playground-theatre-is-now-the-nerve"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/donate"
   to = "https://nervetheatre.org/support-us"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/contact"
   to = "https://nervetheatre.org"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/dayton-acting-classes/"
   to = "https://nervetheatre.org"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/privacy-policy"
   to = "https://nervetheatre.org"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/audition"
   to = "https://nervetheatre.org"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/instagram"
   to = "https://nervetheatre.org"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows"
   to = "https://nervetheatre.org/the-archive"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/season/*"
   to = "https://nervetheatre.org/s/:splat"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows/the-breakfast-club"
   to = "https://nervetheatre.org/s/2014/the-breakfast-club"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows/really-really"
   to = "https://nervetheatre.org/s/2015-2016/really-really"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows/reasons-to-be-pretty"
   to = "https://nervetheatre.org/s/2015-2016/reasons-to-be-pretty"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows/this-is-our-youth"
   to = "https://nervetheatre.org/s/2016-2017/this-is-our-youth"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows/jailbait"
   to = "https://nervetheatre.org/s/2016-2017/jailbait"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows/tape"
   to = "https://nervetheatre.org/s/2017-2018/tape"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows/the-tutors"
   to = "https://nervetheatre.org/s/2017-2018/the-tutors"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows/bachelorette"
   to = "https://nervetheatre.org/s/2017-2018/bachelorette"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows/the-feast"
   to = "https://nervetheatre.org/s/2018-2019/the-feast"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows/assistance"
   to = "https://nervetheatre.org/s/2018-2019/assistance"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows/the-library"
   to = "https://nervetheatre.org/s/2019/the-library"
   status = 301
-  force = false
+  force = true
 
 [[redirects]]
   from = "/shows/stained-glass"
   to = "https://nervetheatre.org/s/2019/stained-glass"
   status = 301
-  force = false
+  force = true
