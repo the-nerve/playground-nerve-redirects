@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/"
+  to = "https://nervetheatre.org"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/about"
+  to = "https://nervetheatre.org"
+  status = 301
+  force = true
