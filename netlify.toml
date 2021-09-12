@@ -129,3 +129,9 @@
   to = "https://nervetheatre.org/s/2019/stained-glass"
   status = 301
   force = true
+
+[[redirects]]
+    from = "/*"
+    to = "https://nervetheatre.org/:splat"
+    status = 301
+    force = true
