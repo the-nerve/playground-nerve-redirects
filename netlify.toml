@@ -132,6 +132,6 @@
 
 [[redirects]]
     from = "/*"
-    to = "https://nervetheatre.org/:splat"
+    to = "https://nervetheatre.org"
     status = 301
     force = true
