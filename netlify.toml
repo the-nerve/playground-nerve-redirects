@@ -1,60 +1,14 @@
-[[redirects]]
-  from = "/"
-  to = "https://nervetheatre.org"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/about"
-  to = "https://nervetheatre.org/blog/the-playground-theatre-is-now-the-nerve"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/donate"
-  to = "https://nervetheatre.org/support-us"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/contact"
-  to = "https://nervetheatre.org"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/dayton-acting-classes"
-  to = "https://nervetheatre.org"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/privacy-policy"
-  to = "https://nervetheatre.org"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/audition"
-  to = "https://nervetheatre.org"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/instagram"
-  to = "https://nervetheatre.org"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/shows"
-  to = "https://nervetheatre.org/the-archive"
-  status = 301
-  force = true
-
+# Handles all seasons
 [[redirects]]
   from = "/season/*"
   to = "https://nervetheatre.org/s/:splat"
+  status = 301
+  force = true
+
+# All show page redirects
+[[redirects]]
+  from = "/shows"
+  to = "https://nervetheatre.org/the-archive"
   status = 301
   force = true
 
@@ -129,6 +83,30 @@
   to = "https://nervetheatre.org/s/2019/stained-glass"
   status = 301
   force = true
+
+# All standard page redirects
+
+[[redirects]]
+  from = "/about"
+  to = "https://nervetheatre.org/blog/the-playground-theatre-is-now-the-nerve"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/donate"
+  to = "https://nervetheatre.org/support-us"
+  status = 301
+  force = true
+
+# Any redirect going to the home page should be handled by our wildcard redirect.
+# This includes:
+# /contact
+# /dayton-acting-classes
+# /privacy-policy
+# /audition
+# /instagram
+#
+# When we build dedicated pages for any of these on th Nerve site, we should add a uniue redirect here
 
 [[redirects]]
     from = "/*"
