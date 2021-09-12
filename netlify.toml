@@ -23,7 +23,7 @@
   force = true
 
 [[redirects]]
-  from = "/dayton-acting-classes/"
+  from = "/dayton-acting-classes"
   to = "https://nervetheatre.org"
   status = 301
   force = true
